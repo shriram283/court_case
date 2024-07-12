@@ -8,6 +8,7 @@ const express = require('express');
 const app = express();
 //Hello vivek here
 //passport config
+//Kaise hai aap log
 require('./config/passport')(passport);
 
 //db config
